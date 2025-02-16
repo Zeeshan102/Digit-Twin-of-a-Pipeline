@@ -42,9 +42,9 @@ graph LR
 
 ## 🛠️ Installation
 ### Dependencies
-1. **QGIS 3.x** ([Download](https://qgis.org))
+1. **QGIS 3.22** ([Download](https://qgis.org))
 2. **Microsoft Excel** (with VBA enabled)
-3. **Python 3.x** (with packages: `pandas`, `openpyxl`, `qgis.core`)
+3. **Python 3.10** (with packages: `pandas`, `openpyxl`, `qgis.core`)
 
 ---
 
