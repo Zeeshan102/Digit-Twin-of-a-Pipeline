@@ -1,7 +1,7 @@
-# [Project Name]: Geospatial Pipeline Analysis Automation
+# Geospatial Pipeline Analysis Automation
 
 **Automated QGIS geospatial analysis integrated with Excel for oil/gas pipeline route evaluation**  
-*Developed for [Consultancy Startup Name] to streamline pipeline planning and compliance checks.*
+*Developed for Digital Transformatin and Engineering Consultancy Ltd to streamline pipeline planning and compliance checks.*
 
 ---
 
@@ -45,16 +45,6 @@ graph LR
 1. **QGIS 3.x** ([Download](https://qgis.org))
 2. **Microsoft Excel** (with VBA enabled)
 3. **Python 3.x** (with packages: `pandas`, `openpyxl`, `qgis.core`)
-
-### Setup
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/[your-username]/[project-name].git
-   ```
-2. Configure QGIS Python environment:
-   - Update paths in `run_analysis.bat` to match your QGIS installation.
-3. Enable Excel Macros:
-   - Go to `File > Options > Trust Center > Macro Settings > Enable all macros`.
 
 ---
 
