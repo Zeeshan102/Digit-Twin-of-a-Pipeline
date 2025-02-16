@@ -1,0 +1,11 @@
+Length: 70315.99 meters
+StartLongitude: 1211793.5912538772
+StartLatitude: 5095023.307813936
+EndLongitude: 1196970.926632408
+EndLatitude: 5058584.866409357
+StartElevation: nan
+EndElevation: nan
+HighestElevation: nan
+HighestElevationLongitude: 1211793.5912538772
+HighestElevationLatitude: 5095023.307813936
+

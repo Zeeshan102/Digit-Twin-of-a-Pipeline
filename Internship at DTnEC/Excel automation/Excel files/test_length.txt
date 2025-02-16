@@ -1,0 +1,11 @@
+Length: 70315.99
+StartLongitude: 683272.5422013128
+StartLatitude: 5723178.568907328
+EndLongitude: 656617.9521054417
+EndLatitude: 5674109.891685383
+StartElevation: 102.0
+EndElevation: 78.0
+HighestElevation: 102.0
+HighestElevationLongitude: 683272.5422013128
+HighestElevationLatitude: 5723178.568907328
+
